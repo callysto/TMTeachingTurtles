@@ -1,7 +1,11 @@
-# T(eenage)M(utant)TeachingTurtles
+# T(eenage) M(utant) Teaching Turtles
 
-Repository for code workshops using turtles in Jupyter notebooks with Python. For each notebook there is a student version and an instructor version containing the solutions.
+Repository for code workshops using Turtles in Jupyter notebooks with Python. For each notebook there is a student version and an instructor version containing the solutions.
 
-TMPythonTurtles introduces Python concepts using turtles.
+TMPythonTurtles introduces Python concepts using Turtles.
 
-TMDataTurtles extends this to data frames and pandas with a dataset of turtle moves.
+TMDictionaryTurtles introduces some ways to structure data in Python.
+
+TMDataTurtles extends this to data frames and pandas with a dataset of Turtle moves.
+
+TMArtTurtles contains notebooks for the Callysto student art contest.
